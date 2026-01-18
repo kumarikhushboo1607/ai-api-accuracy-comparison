@@ -25,7 +25,7 @@ A mixed dataset of custom questions was used, covering:
 ## 📸 Screenshot
 Below is an example of the side-by-side comparison interface used in the project:
 
-![Screenshot of Model Comparison](results/screenshot.png)  
+screenshot.png  
 
 ## 📊 Key Findings
 - **Qwen-3-32B** showed more stable, step-by-step reasoning  
@@ -44,7 +44,7 @@ Below is an example of the side-by-side comparison interface used in the project
 ## 📄 Report
 A detailed, research-style report analyzing the accuracy of Llama-3.3-70B and Qwen-3-32B is included in the repository:
 
-📘 **/report/comparative-analysis.pdf**  
+📘 **comparative-analysis.pdf**  
 Contains: methodology, dataset design, model evaluation, screenshots, analysis, and results.
 
 
